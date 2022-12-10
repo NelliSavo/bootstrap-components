@@ -1,0 +1,49 @@
+.navbar-brand {
+    padding-left: 30px;
+ }
+
+h1 {
+   text-align: center;
+}
+
+.input-group {
+    background-color: white;
+    position: relative;
+    height:100px;
+    display:block;
+    padding-left: 100px;
+    padding-right:100px;
+    padding-top: 100px;
+  }
+
+.form-outline {
+    background: white;
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 30px ;
+    padding-right: 30px;
+  }
+
+.form1 {
+    text-align: center; 
+}
+
+.btn {
+    justify-content: center;
+    padding-left: 30px;
+    padding-right:30px; 
+    text-align: center;  
+}
+
+.image {
+    padding: 250px;
+    justify-content: center;
+    background-color: white;
+}
+
+.img-fluid {
+    height: 300px; 
+    width: 300px;
+    padding: 60px;
+
+}
